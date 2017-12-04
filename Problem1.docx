@@ -1,3 +1,9 @@
 # SMC-Unit-11
 
-Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. These applications are written in JavaScript. It should be noted that JavaScript in of itself is client side programing language that is raw JavaScript can only run on the browser, which is a client side software application. Node.js extends JavaScript to server side applications.  Node.js is also capable of asynchronous I/O (input and output). By its prefix, asynchronous I/O is the negation of synchronous I/O. Synchronous I/O refers to the strict sequential process of an I/O program. In other words, the program cannot continue its execution until the input has been entered. Meanwhile, in an asynchronous I/O program the program can do other tasks even though the input has not been entered. 
+Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. 
+These applications are written in JavaScript. It should be noted that JavaScript in of itself is client side programing language 
+that is raw JavaScript can only run on the browser, which is a client side software application. Node.js extends JavaScript 
+to server side applications.  Node.js is also capable of asynchronous I/O (input and output). By its prefix, asynchronous I/O 
+is the negation of synchronous I/O. Synchronous I/O refers to the strict sequential process of an I/O program. In other words,
+the program cannot continue its execution until the input has been entered. Meanwhile, in an asynchronous I/O program the program
+can do other tasks even though the input has not been entered. 
